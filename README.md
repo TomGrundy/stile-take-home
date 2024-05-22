@@ -22,6 +22,6 @@ Check it out at https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-
 `npm start` runs the server, allowing you to hit it up with Postman or CURL or whatever the cool kids are using nowadays to send stuff at a server.
 `npm test` should run the tests, which should all pass unless I've introduced some non-deterministic bug I've missed, but everytime I ran them they passed! "Works on my machine", he says, before it then immediately explodes 🤞.
 
-Or you know, use the docker-compose file included in the backend dir and just run it in docker and then curl your heart away.
+Or, you know, use the docker-compose file included in the dir and just run it in docker and then curl your heart away.
 
 Please let me know if you need anything further from me! you can reach me at hireme@thomasgrundy.com.
